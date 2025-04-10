@@ -1,5 +1,10 @@
 # Titanic-Dataset-Analysis-Using-Tableau
-The Titanic data is imported then the wrangling of the data is done in Tableau. Then Various objectives are fulfilled with the help of gears and functionalities provided by Tableau. 
+The Titanic data is imported then the wrangling of the data is done in Tableau.
+
+## Data Source
+Excel (Added in the repo)
+
+## Images of the dashboard is being attached and file for the same with .twb format is also being attached
 
 ![Screenshot (202)](https://user-images.githubusercontent.com/32011622/60383968-2818da00-9a96-11e9-881e-3199a58769a4.png)
 
